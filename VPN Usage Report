@@ -1,0 +1,25 @@
+#VPN Usage Report
+
+VPN Setup and Testing
+- VPN Client Used: ProtonVPN (Free tier)
+- Server Location: United States
+- Protocol Used: OpenVPN UDP
+- Encryption:AES-256-bit
+- Verified IP address change from ISP-assigned IP to VPN server IP.
+- Confirmed encrypted traffic using IP and DNS leak tests.
+ 
+Benefits Observed
+1. Encrypted internet traffic.
+2. Masked real IP address.
+3. Prevented ISP from tracking browsing history.
+4. Enabled access to geo-restricted content.
+
+Limitations Noted
+1. Slightly reduced browsing speed.
+2. Free tier server selection limited.
+3. Not a guarantee of complete anonymity.
+
+Best Practices
+- Choose a reputable VPN provider with a no-logs policy.
+- Keep VPN client updated.
+- Disconnect when not in use to save bandwidth.
